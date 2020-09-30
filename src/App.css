@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.main_heading {
+  font-family: 'Pacifico', cursive;
+}
+
+.geometry {
+  background-color: #DDDDDD;
+  min-height: 100vh;
+}
+
+.geo_heading {
+  font-family: 'Lobster', cursive;
+}
