@@ -1,13 +1,6 @@
 import React from 'react';
 
-import 'bootstrap/dist/css/bootstrap.min.css'
 
-import './App.css';
-
-
-import Header from './layout/Header';
-import Footer from './layout/Footer';
-import Geoemetry from './Components/Geometry/Geometry';
 
 const App = () => {
   var algebra = require('algebra.js');
@@ -19,9 +12,6 @@ const App = () => {
 
   return (
     <div>
-      <Header/>
-      <Geoemetry/>
-      <Footer/>
     </div>
   );
 }

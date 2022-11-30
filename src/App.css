@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@700&display=swap');
 .main_heading {
   font-family: 'Pacifico', cursive;
 }
@@ -12,4 +12,10 @@
 
 .geo_heading {
   font-family: 'Lobster', cursive;
+}
+
+/* Result */
+.result {
+  font-family: 'Sansita Swashed', cursive;
+
 }
